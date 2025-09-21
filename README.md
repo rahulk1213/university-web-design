@@ -10,3 +10,9 @@ The project uses only HTML5 for structure and CSS3 for styling. There is no back
 To view the project, clone or download the repository and open the index.html file in a browser.
 
 This project was created as part of learning front-end development and improving skills in HTML and CSS.
+
+Technolgy Use:
+html and css:
+
+To View The Tive Site:
+Tap Here:  https://rahulk1213.github.io/university-web-design/
